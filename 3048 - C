@@ -1,0 +1,27 @@
+using System; 
+
+class URI {
+
+    static void Main(string[] args) { 
+
+      int N = Convert.ToInt32(Console.ReadLine());
+      int V = Convert.ToInt32(Console.ReadLine());
+      int atual = V;
+      int C = 1;
+       for(int i=1; i<N;i++ ){
+          V = Convert.ToInt32(Console.ReadLine());
+          if(atual != V){
+              C++;
+              
+          }
+          atual = V;
+           
+       }
+    
+         Console.WriteLine(C);
+        
+    }
+    
+}
+         
+         
