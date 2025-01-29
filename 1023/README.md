@@ -13,9 +13,7 @@ a quantidade de pessoas seguido de um hífen e o consumo destas pessoas, arredon
 Imprimir uma linha em branco entre dois casos de teste consecutivos. No fim da saída não deve haver uma linha em branco.
 
 
-# Código 
-
-## C99
+# C99
 
 ```java
 
