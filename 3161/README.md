@@ -1,5 +1,5 @@
 # As Frutas Esquecidas - 3161
-[Descrição](https://judge.beecrowd.com/pt/problems/view/3161)
+# [Descrição](https://judge.beecrowd.com/pt/problems/view/3161)
 
 Sheldon Cooper é um personagem excêntrico existente no universo de Hollywood. Recentemente ele sofreu um acidente e acabou esquecendo quais frutas gosta de comer.
 Contudo, é chegada a hora de preparar o café da manhã e Sheldon não quer passar pela experiência de provar uma fruta e descobrir que não gosta dela.
