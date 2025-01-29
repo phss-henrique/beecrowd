@@ -1,4 +1,5 @@
 # As Frutas Esquecidas - 3161
+
 # [Descrição](https://judge.beecrowd.com/pt/problems/view/3161)
 
 Sheldon Cooper é um personagem excêntrico existente no universo de Hollywood. Recentemente ele sofreu um acidente e acabou esquecendo quais frutas gosta de comer.
@@ -22,7 +23,7 @@ Além disso, cada linha M da lista de nomes e cada linha N com o nome de fruta s
 ## Saída
 Para cada nome de fruta procurado, informe: “Sheldon come a fruta X” ou “Sheldon detesta a fruta X” (onde X é nome da fruta que foi verificada na lista em lowercase).
 
-# Código:
+# C99
 ```C
 #include <stdio.h>
 #include <string.h>
